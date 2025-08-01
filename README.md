@@ -1,4 +1,4 @@
-````markdown
+
 # 🧩 Gerador de Rodadas de Negócios
 
 Aplicação em Python com interface gráfica (Tkinter) que organiza **rodadas de negócios** com base no número de participantes, mesas, cadeiras por mesa e rodadas. O objetivo é **maximizar a troca de contatos entre os participantes**, evitando repetições de duplas em mesas diferentes.
@@ -103,6 +103,3 @@ Projeto open-source sob licença MIT
 ## 🪪 Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
-```
-
